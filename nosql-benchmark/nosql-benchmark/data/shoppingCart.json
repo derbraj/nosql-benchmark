@@ -1,0 +1,86 @@
+{
+  "cartId": "6b96bb04-e2c1-4eaf-84e9-a5885b66aa6f",
+  "orderId": 0,
+  "member": {
+		"userId": "6b96bb04-e2c1-4eaf-84e9-a5885b66aa6e",
+		"userName": "",
+		"address": {
+			"addressLineOne": "Sample address 1",
+			"addressLineTwo": "",
+			"city": "Beverly Hills",			
+			"stateShort": "CA",
+			"state": "California",
+			"countryShort": "US",
+			"country": "USA",
+			"postalCode": "90210"
+		},
+		"contact" : {
+			"firstName": "John",
+			"middleName": "",
+			"lastName": "Doe",	
+			"email": "john.doe@mail.com",
+			"phoneOne": "1.990.888.1212",
+			"phoneTwo": "",
+			"mobile": "",
+			"facebook": "https://www.facebook.com/john.doe",
+			"twitter": ""
+		}
+  },
+  "contents": [
+    {
+      "itemId": 50285046,
+      "parentItemId": 50285046,
+	  "name": "Straight Talk Apple iPhone 5S 16GB 4G LTE Prepaid Smartphone",
+	  "salePrice": 149.00,
+	  "cost": 100.00,
+	  "discount": 10.00,
+	  "upc": "190198051875",
+      "quantity": 1,
+	  "unit": "Each",
+	  "dimensions": {
+		 "height": 0,
+		 "lenght": 0,
+		 "width": 0,
+		 "unit": "cm"
+	  },
+	  "weight": {
+	     "value": 0,
+		 "unit": "lb"
+	  },
+	  "priceTotal": 149.00,
+	  "tax": 5.00,
+	  "shippingAmount": 10.00
+    },
+	{
+      "itemId": 50285056,
+      "parentItemId": 50285056,
+	  "name": "Apple iPhone 5S 16GB 4G LTE Prepaid Smartphone",
+	  "salePrice": 149.00,
+	  "cost": 100.00,
+	  "discount": 0.00,
+	  "upc": "190198051875",
+      "quantity": 1,
+	  "unit": "Each",
+	  "dimensions": {
+		 "height": 0,
+		 "lenght": 0,
+		 "width": 0,
+		 "unit": "cm"
+	  },
+	  "weight": {
+	     "value": 0,
+		 "unit": "lb"
+	  },
+	  "priceTotal": 149.00,
+	  "tax": 5.00,
+	  "shippingAmount": 10.00
+    }
+  ],
+  "orderCompleted": true,
+  "currency": "USD", 
+  "productTotal": 298.00,
+  "shippingTotal": 20.00,
+  "taxTotal": 10.00,
+  "discountTotal": 10.00,
+  "cartTotal": 318.00  
+}
